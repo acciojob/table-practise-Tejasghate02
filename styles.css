@@ -1,15 +1,13 @@
 /*  your css code here. If applicable */
 .container{
 	background-color: yellow;
-}
-table{
 	border-left: 1px solid grey;
 	border-top: 1px solid grey;
 	border-bottom: 1px solid black;
 	border-right: 1px solid black;
 	
 }
-td{
+td,th{
 	border-top: 1px solid;
 	border-left: 1px solid;
 	border-bottom: 1px solid grey;
