@@ -1,25 +1,4 @@
-/*  your css code here. If applicable */
-.container{
-	background-color: yellow;
-	border-left: 1px solid grey;
-	border-top: 1px solid grey;
-	border-bottom: 1px solid black;
-	border-right: 1px solid black;
-	
-}
-td,th{
-	border-top: 1px solid;
-	border-left: 1px solid;
-	border-bottom: 1px solid grey;
-	border-right: 1px solid grey;
-	
-}
-.row{
-	font-weight:bold;
-}
-.maincontainer{
-	display: flex;
-	flex-direction:column;
-	align-items: center
-	
+table,td,th{
+	background-color:yellow;
+	border:1px solid black;
 }
